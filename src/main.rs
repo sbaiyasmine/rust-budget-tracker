@@ -1,6 +1,5 @@
 use std::collections::HashMap;
 use dialoguer::{Input, Select};
-
 struct Transaction {
     description: String,
     amount: f64,
